@@ -1,9 +1,7 @@
 var namespace = "http://www.w3.org/2000/svg"
 
 // Write your code here!
-makeRect(90,20,30,30,"red")
-makeRect(100,30,30,30,"yellow")
-makeRect(96,26,15,15,"white")
+makeImage("https://logopond.com/logos/402b0630c664cd5871a16dad19f29173.png",0,0,100,100)
 // DO NOT EDIT CODE BELOW THIS LINE!
 function getX(shape) {
   if (!shape) {
