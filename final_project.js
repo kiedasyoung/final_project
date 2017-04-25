@@ -1,7 +1,11 @@
 var namespace = "http://www.w3.org/2000/svg"
 
 // Write your code here!
-makeImage("https://logopond.com/logos/402b0630c664cd5871a16dad19f29173.png",0,0,100,100)
+makeImage("http://i.dailymail.co.uk/i/pix/2013/06/11/article-2339415-1A412347000005DC-751_964x560.jpg",0,0,100,100)
+
+function Home (){
+  document.querySelector("body").setAttribute("style", "background: url(https://typewritermonkeys.files.wordpress.com/2015/04/apples.jpg)")
+}
 // DO NOT EDIT CODE BELOW THIS LINE!
 function getX(shape) {
   if (!shape) {

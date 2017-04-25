@@ -10,7 +10,15 @@ h1{
 h3 {
   text-align: center;
 }
-#open1{
+#Home1{
+  text-align: left;
+  width: 300px;
+}
+#Home2{
+  text-center:left;
+  width:300px;
+}
+#Home3{
   text-align: left;
   width: 300px;
 }
