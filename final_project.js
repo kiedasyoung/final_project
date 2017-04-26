@@ -1,11 +1,18 @@
 var namespace = "http://www.w3.org/2000/svg"
 
 // Write your code here!
-makeImage("http://i.dailymail.co.uk/i/pix/2013/06/11/article-2339415-1A412347000005DC-751_964x560.jpg",0,0,100,100)
-
-function Home (){
-  document.querySelector("body").setAttribute("style", "background: url(https://typewritermonkeys.files.wordpress.com/2015/04/apples.jpg)")
+function Main (){
+  document.querySelector("body").setAttribute("style", "background: url(http://c767204.r4.cf2.rackcdn.com/fa2ad3b2-3855-4d59-bdd0-ec422838b79d.jpg)")
 }
+function Sad (){
+  document.querySelector("body").setAttribute("style", "background: url(http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/black-paint-splatter-icons-symbols-shapes/017612-black-paint-splatter-icon-symbols-shapes-smileyfacesad.png)")
+}
+  function Happy (){
+document.querySelector("body").setAttribute("style", "background: url(http://www.clker.com/cliparts/K/O/6/G/a/8/abstract-shape-hi.png)")
+  }
+  function Normal (){
+document.querySelector("body").setAttribute("style", "background: url(http://2.bp.blogspot.com/-xCxeVtVyWh8/Ulbdy-wmOdI/AAAAAAAAAIg/OHu6Uz7iaCQ/s1600/Windows+of+Inspiration.jpg)")
+  }
 // DO NOT EDIT CODE BELOW THIS LINE!
 function getX(shape) {
   if (!shape) {
