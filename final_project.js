@@ -10,8 +10,8 @@ function Sad (){
   function Happy (){
 document.querySelector("body").setAttribute("style", "background: url(http://www.clker.com/cliparts/K/O/6/G/a/8/abstract-shape-hi.png)")
   }
-  function Normal (){
-document.querySelector("body").setAttribute("style", "background: url(http://2.bp.blogspot.com/-xCxeVtVyWh8/Ulbdy-wmOdI/AAAAAAAAAIg/OHu6Uz7iaCQ/s1600/Windows+of+Inspiration.jpg)")
+  function Normal ()
+document.querySelector("body").setAttribute("style", "background: url(http://www.clker.com/cliparts/K/O/6/G/a/8/abstract-shape-hi.png)")
   }
 // DO NOT EDIT CODE BELOW THIS LINE!
 function getX(shape) {

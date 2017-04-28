@@ -2,6 +2,9 @@
 body{
 background-image: url(http://c767204.r4.cf2.rackcdn.com/fa2ad3b2-3855-4d59-bdd0-ec422838b79d.jpg);
 }
+div{
+  display:block;
+}
 h1{
   text-align: center;
   font-family: 'UnifrakturCook', cursive;
