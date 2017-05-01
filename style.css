@@ -25,3 +25,82 @@ h3 {
   text-align: left;
   width: 300px;
 }
+div{
+  display:block;
+}
+#container3{
+  clear: left;
+    float: left;
+    width: 100%;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background: #89ffa2;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(137, 255, 162);
+}
+#container2{
+  clear: left;
+    float: left;
+    width: 100%;
+    position: relative;
+    right: 33.333%;
+    background: #ffa7a7;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(255, 167, 167);
+}
+#container3{
+  float: left;
+    width: 100%;
+    position: relative;
+    right: 33.33%;
+    background: #fff689;
+}
+#col1{
+  float: left;
+  width: 29.33%;
+  position: relative;
+  left: 68.67%;
+  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+#col2{
+  float: left;
+    width: 29.33%;
+    position: relative;
+    left: 72.67%;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+#col3{
+  float: left;
+    width: 29.33%;
+    position: relative;
+    left: 76.67%;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+#footer{
+  clear: both;
+    float: left;
+    width: 100%;
+}
