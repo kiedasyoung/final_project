@@ -3,6 +3,7 @@ var namespace = "http://www.w3.org/2000/svg"
 // Write your code here!
 function Main (){
   document.querySelector("body").setAttribute("style", "background: url(http://c767204.r4.cf2.rackcdn.com/fa2ad3b2-3855-4d59-bdd0-ec422838b79d.jpg)")
+  document.getElementById("title1").setAttribute("style","display:block;")
 }
 function Sad (){
   document.querySelector("body").setAttribute("style", "background: url(http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/black-paint-splatter-icons-symbols-shapes/017612-black-paint-splatter-icon-symbols-shapes-smileyfacesad.png)")
