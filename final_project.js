@@ -4,6 +4,13 @@ var namespace = "http://www.w3.org/2000/svg"
 function Main (){
   document.querySelector("body").setAttribute("style", "background: url(http://c767204.r4.cf2.rackcdn.com/fa2ad3b2-3855-4d59-bdd0-ec422838b79d.jpg)")
   document.getElementById("title1").setAttribute("style","display:block;")
+  document.getElementById("title2").setAttribute("style","display:none;")
+  document.getElementById("title3").setAttribute("style","display:none;")
+  document.getElementById("title4").setAttribute("style","display:none;")
+  document.getElementById("Sad1").setAttribute("")
+  document.getElementById("").setAttribute("")
+  document.getElementById("").setAttribute("")
+  document.getElementById("").setAttribute("")
 }
 function Sad (){
   document.querySelector("body").setAttribute("style", "background: url(http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/black-paint-splatter-icons-symbols-shapes/017612-black-paint-splatter-icon-symbols-shapes-smileyfacesad.png)")
@@ -11,6 +18,10 @@ function Sad (){
   document.getElementById("title2").setAttribute("style","display:block;")
   document.getElementById("title3").setAttribute("style","display:none;")
   document.getElementById("title4").setAttribute("style","display:none;")
+  document.getElementById("").setAttribute("")
+  document.getElementById("").setAttribute("")
+  document.getElementById("").setAttribute("")
+  document.getElementById("").setAttribute("")
 }
   function Happy (){
   document.querySelector("body").setAttribute("style", "background: url(http://www.clker.com/cliparts/K/O/6/G/a/8/abstract-shape-hi.png)")
@@ -18,6 +29,10 @@ function Sad (){
   document.getElementById("title2").setAttribute("style","display:none;")
   document.getElementById("title3").setAttribute("style","display:block;")
   document.getElementById("title4").setAttribute("style","display:none;")
+  document.getElementById("").setAttribute("")
+  document.getElementById("").setAttribute("")
+  document.getElementById("").setAttribute("")
+  document.getElementById("").setAttribute("")
  }
   function Normal () {
 document.querySelector("body").setAttribute("style", "background: url(https://i.ytimg.com/vi/sVRjw1xQ9rk/maxresdefault.jpg)")
@@ -25,6 +40,11 @@ document.getElementById("title1").setAttribute("style","display:none;")
 document.getElementById("title2").setAttribute("style","display:none;")
 document.getElementById("title3").setAttribute("style","display:none;")
 document.getElementById("title4").setAttribute("style","display:block;")
+document.getElementById("title4").setAttribute("style","color:yellow;")
+document.getElementById("").setAttribute("")
+document.getElementById("").setAttribute("")
+document.getElementById("").setAttribute("")
+document.getElementById("").setAttribute("")
   }
 // DO NOT EDIT CODE BELOW THIS LINE!
 function getX(shape) {
