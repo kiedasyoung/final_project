@@ -1,7 +1,8 @@
 var namespace = "http://www.w3.org/2000/svg"
 
 // Write your code here!
-makeImage(10,10,30,30,"http://img.picturequotes.com/2/17/16436/the-start-is-what-stops-most-people-quote-1.jpg")
+makeImage("http://img.picturequotes.com/2/17/16436/the-start-is-what-stops-most-people-quote-1.jpg",10,10,230,100)
+
 function Main (){
   document.querySelector("body").setAttribute("style", "background: url(http://c767204.r4.cf2.rackcdn.com/fa2ad3b2-3855-4d59-bdd0-ec422838b79d.jpg)")
   document.getElementById("title1").setAttribute("style","display:block;")
